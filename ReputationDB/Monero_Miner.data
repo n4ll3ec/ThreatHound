@@ -1,0 +1,39 @@
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "cloudflare.hashfor.cash", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "cryptoescrow.eu", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "cryptonotepool.org", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "fcn-mro.pool.minergate.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "hash-to-coins.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "kippo.eu", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "linux-repository-updates.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "litecoinpool.org", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "mine.moneropool.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "mine.sumo.fairpool.cloud", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "monero.crypto-pool.fr", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "monero.farm", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "monerohash.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "monerominers.net", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "mro.extrmepool.org", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "mro.poolto.be", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "pool.minexmr.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "pool-nyc.supportxmr.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "pool-proxy.com", "category": "Network activity", "correlations": ["293"], "feed_correlations": [[{"Feed": {"id": "1", "name": "CIRCL OSINT Feed", "url": "https://www.circl.lu/doc/misp/feed-osint", "provider": "CIRCL", "source_format": "misp"}}]]}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "pool.sumokoin.hashvault.pro", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "pool-vegas.xmrpool.net", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "webcoin.me", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "xcnpool2.1gh.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "xdn.miner.center", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "xmr.crypto-pool.fr", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "xmr-eu1.nanopool.org", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "xmr-eu2.nanopool.org", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "xmr-eu.dwarfpool.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "xmr-eu.nanopool.org", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "xmr.hashinvest.ws", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "xmrpool.eu", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "xmr.pool.minergate.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "xmr.prohash.net", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "yescrypt.mine.zpool.ca", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "proxy.mineshaft.ml", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "mineshaft.ml", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "app.abcxyz.stream", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "data.supportithelp.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "mine.ppxxmr.com", "category": "Network activity"}

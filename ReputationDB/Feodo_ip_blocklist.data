@@ -1,0 +1,135 @@
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "abuse.ch", "category": "Network activity"}
+{"types": ["phone-number", "prtn", "whois-registrant-phone"], "categories": ["Other"], "to_ids": false, "default_type": "phone-number", "value": "2019-11-15", "category": "Person"}
+{"types": ["url"], "to_ids": true, "default_type": "url", "comment": false, "value": "https://feodotracker.abuse.ch/blocklist/", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "abuse.ch", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "72.47.209.128", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "178.210.51.222", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "80.249.176.206", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "144.139.247.220", "category": "Network activity", "feed_correlations": [[{"Feed": {"id": "1", "name": "CIRCL OSINT Feed", "url": "https://www.circl.lu/doc/misp/feed-osint", "provider": "CIRCL", "source_format": "misp"}}]]}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "200.123.150.89", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "187.177.155.123", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "200.71.148.138", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "200.113.106.18", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "181.143.194.138", "category": "Network activity", "feed_correlations": [[{"Feed": {"id": "1", "name": "CIRCL OSINT Feed", "url": "https://www.circl.lu/doc/misp/feed-osint", "provider": "CIRCL", "source_format": "misp"}}]]}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "190.145.67.134", "category": "Network activity", "feed_correlations": [[{"Feed": {"id": "1", "name": "CIRCL OSINT Feed", "url": "https://www.circl.lu/doc/misp/feed-osint", "provider": "CIRCL", "source_format": "misp"}}]]}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "104.131.11.150", "category": "Network activity", "feed_correlations": [[{"Feed": {"id": "1", "name": "CIRCL OSINT Feed", "url": "https://www.circl.lu/doc/misp/feed-osint", "provider": "CIRCL", "source_format": "misp"}}]]}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "159.65.241.220", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "186.10.243.70", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "173.171.132.82", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "75.183.130.158", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "190.119.180.226", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "186.159.1.217", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "200.21.51.30", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "170.238.117.187", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "190.13.160.19", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "103.84.238.3", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "181.176.160.145", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "189.80.134.122", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "177.103.240.149", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "36.89.85.103", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "190.13.190.178", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "186.47.40.234", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "168.227.229.112", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "180.250.197.188", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "200.21.51.38", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "31.12.67.62", "category": "Network activity", "feed_correlations": [[{"Feed": {"id": "1", "name": "CIRCL OSINT Feed", "url": "https://www.circl.lu/doc/misp/feed-osint", "provider": "CIRCL", "source_format": "misp"}}]]}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "88.250.223.190", "category": "Network activity", "feed_correlations": [[{"Feed": {"id": "1", "name": "CIRCL OSINT Feed", "url": "https://www.circl.lu/doc/misp/feed-osint", "provider": "CIRCL", "source_format": "misp"}}]]}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "149.202.153.251", "category": "Network activity", "feed_correlations": [[{"Feed": {"id": "1", "name": "CIRCL OSINT Feed", "url": "https://www.circl.lu/doc/misp/feed-osint", "provider": "CIRCL", "source_format": "misp"}}]]}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "178.252.26.235", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "192.163.221.191", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "181.49.61.237", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "217.199.160.224", "category": "Network activity", "feed_correlations": [[{"Feed": {"id": "1", "name": "CIRCL OSINT Feed", "url": "https://www.circl.lu/doc/misp/feed-osint", "provider": "CIRCL", "source_format": "misp"}}]]}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "170.233.120.53", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "46.101.212.195", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "68.183.190.199", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "81.190.160.139", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "31.214.138.207", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "167.71.10.37", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "157.7.164.178", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "104.131.58.132", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "14.160.93.230", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "46.105.131.87", "category": "Network activity", "feed_correlations": [[{"Feed": {"id": "1", "name": "CIRCL OSINT Feed", "url": "https://www.circl.lu/doc/misp/feed-osint", "provider": "CIRCL", "source_format": "misp"}}]]}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "178.183.150.169", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "131.161.253.190", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "31.128.13.45", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "69.163.33.84", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "186.71.150.23", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "46.174.235.36", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "200.127.121.99", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "81.169.140.14", "category": "Network activity", "feed_correlations": [[{"Feed": {"id": "1", "name": "CIRCL OSINT Feed", "url": "https://www.circl.lu/doc/misp/feed-osint", "provider": "CIRCL", "source_format": "misp"}}]]}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "200.58.83.179", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "186.23.132.93", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "96.20.84.254", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "37.187.2.199", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "173.249.47.77", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "101.108.92.111", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "190.152.125.22", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "181.10.207.234", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "201.187.105.123", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "190.111.255.219", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "128.201.174.107", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "124.150.175.133", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "181.198.203.45", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "198.57.217.170", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "212.129.24.79", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "46.105.131.68", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "167.99.105.223", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "176.31.200.130", "category": "Network activity", "feed_correlations": [[{"Feed": {"id": "1", "name": "CIRCL OSINT Feed", "url": "https://www.circl.lu/doc/misp/feed-osint", "provider": "CIRCL", "source_format": "misp"}}]]}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "183.102.238.69", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "163.172.40.218", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "192.241.220.155", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "45.235.213.126", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "202.29.215.114", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "51.255.165.160", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "67.225.179.64", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "104.239.175.211", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "165.227.156.155", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "193.34.144.138", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "189.28.185.50", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "181.113.28.162", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "185.177.59.41", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "190.142.200.108", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "170.84.78.224", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "103.219.213.102", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "194.5.250.162", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "91.108.150.213", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "194.5.250.109", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "212.73.150.144", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "185.57.167.32", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "117.255.221.135", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "177.105.242.229", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "181.140.173.186", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "104.238.80.237", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "192.241.255.77", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "181.197.108.171", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "66.85.173.57", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "185.99.2.166", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "5.2.79.203", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "181.113.28.146", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "181.196.207.202", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "181.129.134.18", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "80.85.87.122", "category": "Network activity", "feed_correlations": [[{"Feed": {"id": "1", "name": "CIRCL OSINT Feed", "url": "https://www.circl.lu/doc/misp/feed-osint", "provider": "CIRCL", "source_format": "misp"}}]]}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "138.197.140.163", "category": "Network activity", "feed_correlations": [[{"Feed": {"id": "1", "name": "CIRCL OSINT Feed", "url": "https://www.circl.lu/doc/misp/feed-osint", "provider": "CIRCL", "source_format": "misp"}}]]}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "103.63.31.38", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "190.146.176.67", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "190.214.13.2", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "85.234.143.94", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "78.47.106.72", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "144.91.80.253", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "185.222.202.25", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "91.205.173.54", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "163.172.97.112", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "107.170.27.84", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "144.76.56.36", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "181.112.157.42", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "103.255.10.24", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "181.129.167.82", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "181.129.104.139", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "177.226.25.78", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "178.170.189.19", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "188.225.82.114", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "178.79.161.166", "category": "Network activity", "feed_correlations": [[{"Feed": {"id": "1", "name": "CIRCL OSINT Feed", "url": "https://www.circl.lu/doc/misp/feed-osint", "provider": "CIRCL", "source_format": "misp"}}]]}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "187.230.99.192", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "195.201.56.70", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "213.189.36.51", "category": "Network activity"}
+{"types": ["ip-dst", "ip-src", "ip-src/ip-dst"], "to_ids": true, "default_type": "ip-dst", "comment": false, "value": "70.32.78.99", "category": "Network activity"}

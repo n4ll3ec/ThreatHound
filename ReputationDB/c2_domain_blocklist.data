@@ -1,0 +1,425 @@
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "jaxwolcxabjzcexx0p.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "llyamcjgytzaw5n.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "nlrljzimhnlwqcl.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "rdtvsjqhokzxhkwv.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "rxtahgzuromaey.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "uswzzepyrwioxvkozr.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "wpkryaeqicbw.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "yjkcbwknkzqdnirl.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "ytgyzoloest50.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "ns1.dnsfor9.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "kcubcfuhwwn.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "lxpcmncky.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "muiccxbvkvjb.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "ojglbpuhj.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "pihxsxitdfzpvpgeusf.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "sjytgtnkdl.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "zpjjtxthazjghwvdlzy.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "yhhzsw89los1cs883j1o93cnx.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "1r392l1cpgw7g1ytktwwsn009m.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "orwvifxds.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "adhbtib.yi.org", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "afmbtgyktty.yi.org", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "bdubefoeug.yi.org", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "bpdyttrlp.yi.org", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "cdggua.yi.org", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "ckfrzitlm.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "gatjyer.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "gviailawmc.yi.org", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "hzmwxlmu.yi.org", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "ihouxyds.yi.org", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "iqwifsunu.yi.org", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "itifvo.yi.org", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "klofmvcx.yi.org", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "kqrhri.mooo.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "lbimniu.yi.org", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "muodaclf.yi.org", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "ngbmfsbuql.yi.org", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "pcajqcaof.yi.org", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "qpyosxkmcc.yi.org", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "qwzsprieo.yi.org", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "udtwirqzhdm.yi.org", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "wmvrlpvpqxu.yi.org", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "xlfstaxlrui.yi.org", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "yhzjehi.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "zssdxcq.yi.org", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "dmjyhonozamjzrslzpofh.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "lhmvcjfhqmrtypfulgknjft.info", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "nxnuzpognpono.info", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "rsmwnrpmnh.org", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "bawvhlhqlgytgufubrkuk.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "cndnbsosbmee.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "cqdncomttkrlcj.us", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "daujsjhid.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "dwphruvwqsx.pro", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "evvlibxquk.pro", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "exvdxfyhcmuvqwgcivgq.pro", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "fhkomgronmyjx.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "foygegiwwsdu.pw", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "giohobbnmpcr.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "gnukdjhljo.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "hhsnoaxcmrfl.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "hpivkllq.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "hucqhserptvp.us", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "hwmhcwurkhpesgjbokti.pro", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "iilvqbfnfsl.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "itogqnqod.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "ixguxygxii.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "jlduopnx.pw", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "junhlbwxtg.pw", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "juqceasmuniktwnuwlyh.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "jxvwgsemygqpmlrwuff.pro", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "kkmokjo.pw", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "kmlirtollxglobqkqx.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "kpochrdgihaosu.us", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "ktpqqousggaxshdjgps.pw", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "ljmgwafhf.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "llbmccygyrfvvrotk.pw", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "lyecrhivqrwletwmy.pw", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "migttrm.us", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "nlwfgfae.pw", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "ofonxgwmhavynycs.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "pbafyubwlh.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "pfwtkcaacrgyxfed.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "pkhtwfkqmmnurs.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "plkiykt.us", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "qktbcdexxq.us", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "qstkuyufvhif.us", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "qyydrbqhkrvjfi.us", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "rxxkgpokgcgbqevujsco.pw", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "tfaodqun.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "tgaqkhgwbqsecmkga.pro", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "thxjqsnrgucrxebwkrabm.pw", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "tpvnowwxgoispehqq.me", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "ukdgqhtriry.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "ukgisvpaghsiwqysgcdj.pro", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "uoirobnjdycmdnd.pro", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "uxngqohg.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "vbyawgwytxqukdjlr.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "vrhgdtbyacfyc.us", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "wgoouxsajreky.us", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "wkdcrujvc.pro", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "wkqxudtndnjl.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "xsajjltpweelxwtjajwx.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "xsuglju.pro", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "yeqqnqrapvopuxntpcqhg.pro", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "dmjyhonozamjzrslzpofh.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "hqeqhhingabufqvusgyzxfugy.ru", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "lhmvcjfhqmrtypfulgknjft.info", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "bholey.in", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "oftfjo.info", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "yhhzsw89los1cs883j1o93cnx.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "1r392l1cpgw7g1ytktwwsn009m.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "nmrrgzwjsjxhzgmhwq.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "zndvcaodxvmikqdoqzq.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "ceigqweqwaywiqgu.org", "category": "Network activity", "correlations": ["187"], "feed_correlations": [[{"Feed": {"id": "2", "name": "The Botvrij.eu Data", "url": "https://botvrij.eu/data/feed-osint/", "provider": "Botvrij.eu", "source_format": "misp"}}]]}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "skmymmeiaoooigke.org", "category": "Network activity", "correlations": ["187"], "feed_correlations": [[{"Feed": {"id": "2", "name": "The Botvrij.eu Data", "url": "https://botvrij.eu/data/feed-osint/", "provider": "Botvrij.eu", "source_format": "misp"}}]]}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "uoaccgeaygsaagga.org", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "aafgcvjyvxlosy.com", "category": "Network activity", "feed_correlations": [[{"Feed": {"id": "1", "name": "CIRCL OSINT Feed", "url": "https://www.circl.lu/doc/misp/feed-osint", "provider": "CIRCL", "source_format": "misp"}}]]}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "aarbvsrdnhhidhwk.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "absqvhpldvsmclt.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "advjpbbhiwoccqa.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "aftfjuclhvdubfeuqs.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "ahcqoemxnlyslypato.com", "category": "Network activity", "feed_correlations": [[{"Feed": {"id": "1", "name": "CIRCL OSINT Feed", "url": "https://www.circl.lu/doc/misp/feed-osint", "provider": "CIRCL", "source_format": "misp"}}]]}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "ahrkvtgc.com", "category": "Network activity", "correlations": ["2196"]}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "ajqwbyetyjkj.com", "category": "Network activity", "feed_correlations": [[{"Feed": {"id": "1", "name": "CIRCL OSINT Feed", "url": "https://www.circl.lu/doc/misp/feed-osint", "provider": "CIRCL", "source_format": "misp"}}]]}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "akkqttli.eu", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "anxpepxpukbfmh.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "anyaikyaeifcprlcrof.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "anypbvojndegpnm.com", "category": "Network activity", "feed_correlations": [[{"Feed": {"id": "1", "name": "CIRCL OSINT Feed", "url": "https://www.circl.lu/doc/misp/feed-osint", "provider": "CIRCL", "source_format": "misp"}}]]}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "arpfpfmhgimikfp.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "aruwggvopgxpah.bid", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "asvafrqouvtam.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "aujastmvehxqmlbb.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "auqpdabknaty.com", "category": "Network activity", "correlations": ["2196"]}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "avpsjncogss.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "axswdqnjgrnryt.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "bekvfkxfh.com", "category": "Network activity", "correlations": ["2196"]}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "bftakdpbwltyhe.bid", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "bheabfdfug.com", "category": "Network activity", "correlations": ["2196"]}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "bjfwfqviu.com", "category": "Network activity", "correlations": ["2196"]}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "bjvsjkday.com", "category": "Network activity", "feed_correlations": [[{"Feed": {"id": "1", "name": "CIRCL OSINT Feed", "url": "https://www.circl.lu/doc/misp/feed-osint", "provider": "CIRCL", "source_format": "misp"}}]]}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "bmnftumvop.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "brluetauvqpyjlmwr.com", "category": "Network activity", "correlations": ["2196"]}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "buttiorffdlxk.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "cdrbbebvmrmvgig.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "cjjugrow.com", "category": "Network activity", "correlations": ["2196"]}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "clnnfgvk.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "cnbpdmqaxkredxnk.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "cpupishlmhsuucs.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "cramfqwvqlqeof.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "creunjqukjg.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "crgyxgkyshsjick.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "crocppgqdudtds.com", "category": "Network activity", "correlations": ["2196"]}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "crtnqvsqtlgejkxjlgr.eu", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "ctfoidlsctrlkrlhmj.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "ctmqakpbxbtk.com", "category": "Network activity", "correlations": ["2196"]}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "cwyerobemr.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "cxphaoskcnohvaqscw.eu", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "dameiuoflkwlswiqxcj.com", "category": "Network activity", "correlations": ["2196"]}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "dhhamstlkkfjvchbos.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "dmdxsuxvlywxtlswclf.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "dmfcfogohwwatl.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "dqyumiqslaemuixxak.com", "category": "Network activity", "feed_correlations": [[{"Feed": {"id": "1", "name": "CIRCL OSINT Feed", "url": "https://www.circl.lu/doc/misp/feed-osint", "provider": "CIRCL", "source_format": "misp"}}]]}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "dsigyqupbnpfnneopce.com", "category": "Network activity", "feed_correlations": [[{"Feed": {"id": "1", "name": "CIRCL OSINT Feed", "url": "https://www.circl.lu/doc/misp/feed-osint", "provider": "CIRCL", "source_format": "misp"}}]]}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "ectdsitvvoydawmfni.com", "category": "Network activity", "feed_correlations": [[{"Feed": {"id": "1", "name": "CIRCL OSINT Feed", "url": "https://www.circl.lu/doc/misp/feed-osint", "provider": "CIRCL", "source_format": "misp"}}]]}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "edbvkjmr.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "edirhtuawurxlobk.com", "category": "Network activity", "feed_correlations": [[{"Feed": {"id": "1", "name": "CIRCL OSINT Feed", "url": "https://www.circl.lu/doc/misp/feed-osint", "provider": "CIRCL", "source_format": "misp"}}]]}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "eibmornpk.com", "category": "Network activity", "correlations": ["2196"]}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "etlixykg.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "excbifohvjwycxpsme.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "exhvqlcxixun.eu", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "eyarffmarxwm.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "fbnurqhsbun.com", "category": "Network activity", "correlations": ["2196"]}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "fejbmscsuruiow.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "ffdjiuvufw.com", "category": "Network activity", "correlations": ["2196"]}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "fjgoqfdnwcpfolu.eu", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "fjicwyuyyppsei.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "flkheyxtcedehipox.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "fnvweaywlctnxsi.com", "category": "Network activity", "correlations": ["2196"]}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "frpcpaabkn.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "fthmyvrefryk.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "fynnfldqc.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "fyokqvektjgcwl.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "gejsyavxw.com", "category": "Network activity", "correlations": ["2196"]}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "gherhfhofm.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "gjvoemsjvb.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "gpqklhsorpe.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "grhjojbk.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "gwdrhlnqfyujpcdl.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "gwjfujeqgjrg.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "gxuppbuconvlmdr.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "hbpwkmkt.com", "category": "Network activity", "feed_correlations": [[{"Feed": {"id": "1", "name": "CIRCL OSINT Feed", "url": "https://www.circl.lu/doc/misp/feed-osint", "provider": "CIRCL", "source_format": "misp"}}]]}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "hggpabhhebpmkm.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "hgnftgngjegoghjegv.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "hgyudheedieibxy.com", "category": "Network activity", "feed_correlations": [[{"Feed": {"id": "1", "name": "CIRCL OSINT Feed", "url": "https://www.circl.lu/doc/misp/feed-osint", "provider": "CIRCL", "source_format": "misp"}}]]}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "hqcwdgojpjeerrmqrd.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "hvmwgkolgqsihrhhsd.com", "category": "Network activity", "correlations": ["2196"]}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "iavtuhrcy.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "iihsmkek.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "ijegpolbr.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "ikbcwonlqlmvk.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "irjeljgwfiaokbkcxnh.com", "category": "Network activity", "correlations": ["2196"]}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "isxvhiqqlflxicdno.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "itehtxcch.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "ivaypikfqfktn.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "iwdshywjrvggnqohg.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "iyigcluu.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "jcnjrvpmcwwvnqi.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "jdhvlcjkgykjiraf.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "jexgpprgph.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "jhghrlufoh.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "jjgxgoko.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "jlaabpmergjoflssyg.com", "category": "Network activity", "correlations": ["2196"]}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "jlbufmnrtnhnbjmdfen.eu", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "jpcqdmfvn.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "jpmtaqtu.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "jsttajpjtpqiu.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "jswjfhumpudlhljnib.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "jyokjogwr.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "kbivgyaakcntdet.com", "category": "Network activity", "correlations": ["2196"]}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "kbodfwsbgfmoneuoj.com", "category": "Network activity", "correlations": ["2196"]}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "kebegvpl.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "kirtreladiocqmisg.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "kkujkajkeiobts.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "knpqxlxcwtlvgrdyhd.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "ktvaatsckypuxwq.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "ktxerynkliucejfsy.com", "category": "Network activity", "correlations": ["2196"]}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "kuehndqrw.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "kwdfftnmagrgkq.eu", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "lajlfdbqqr.com", "category": "Network activity", "feed_correlations": [[{"Feed": {"id": "1", "name": "CIRCL OSINT Feed", "url": "https://www.circl.lu/doc/misp/feed-osint", "provider": "CIRCL", "source_format": "misp"}}]]}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "lawklepwvnoo.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "ldqgdwnrqtswjivedun.eu", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "lfqvgmphn.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "lkmkkblchefeibicfjl.com", "category": "Network activity", "correlations": ["2196"]}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "lrqxvrqsihwtudox.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "lvbpclhkipxsykrrmmi.eu", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "lvxlicygng.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "lwqmgevnftflytvbgs.com", "category": "Network activity", "correlations": ["2196"]}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "maajnyhst.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "mbleswoqkbfmhhsbh.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "mdciaipm.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "meeaexhvlnhfalqyrc.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "mochcckvjfboxocjjpf.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "movrronaha.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "mpaykojqbmuvdvqk.bid", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "mrthpcokvjc.com", "category": "Network activity", "correlations": ["2196"]}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "mvdenjiniyvmyrco.click", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "mvpsefgsjvh.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "nexefwfbmkbvmf.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "ngbclncfxjdsmmribt.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "ngdyakaydplceikyo.eu", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "nhrnpnrpnyfgmsaj.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "nihsxhvkfjwotm.bid", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "nldgdanoa.com", "category": "Network activity", "correlations": ["2196"]}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "nmrdnovjmcd.com", "category": "Network activity", "correlations": ["2196"]}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "notalyyj.com", "category": "Network activity", "correlations": ["2196"]}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "npcvnorvyhelagx.com", "category": "Network activity", "correlations": ["2196"]}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "ntmhavejb.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "nvrnisdf.com", "category": "Network activity", "correlations": ["2196"]}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "nwhjmgysoaetqhb.com", "category": "Network activity", "feed_correlations": [[{"Feed": {"id": "1", "name": "CIRCL OSINT Feed", "url": "https://www.circl.lu/doc/misp/feed-osint", "provider": "CIRCL", "source_format": "misp"}}]]}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "nwwrxhdshbwbgdfal.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "nxrkmtdyjmnubs.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "oakedtell.eu", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "oeyiyqylgcfivavw.click", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "oihdgpxipqavpxaumvg.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "oihkldembdailah.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "onaxjbfinflx.com", "category": "Network activity", "correlations": ["2196"]}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "osgbjqxllgcrpwuelm.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "owtbbgoyr.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "oxxvnflhtpomjmwst.com", "category": "Network activity", "correlations": ["2196"]}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "oxyoiuuhrmrk.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "pbrejhhsdgtgjw.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "pbswxuifgcmmaqg.bid", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "pneurilwwv.click", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "podaitjnvfauh.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "pphigrppk.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "pqatssxtdjqvjxpanwq.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "prcgijpwvrl.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "pseawpucpiimg.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "pyysfwak.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "qbiaxovuxpurt.eu", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "qbqoxfujlbetfrjfh.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "qfitnlxp.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "qgxdebnqcf.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "qhmlfmghn.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "qhmmkqkk.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "qhvofnudibriut.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "qislvfqqp.com", "category": "Network activity", "correlations": ["2196"]}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "qoaaxkcvvuumrkeivr.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "qplygskdeidoweja.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "qrarxngrqtmioqnawg.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "qujwqxiga.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "qynmkrfl.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "rbartdeguauwfnmuf.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "rclsurjwyrjqoebrqti.com", "category": "Network activity", "correlations": ["2196"]}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "rgcakqlu.bid", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "rgmxtsagmcvrrkofdkn.com", "category": "Network activity", "correlations": ["2196"]}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "rjrgofntfhsclec.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "rkjtwjwmesvwhpc.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "rlkeqcsygmmglv.com", "category": "Network activity", "correlations": ["2196"]}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "rrcaiodd.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "rrmlyaviljwuoph.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "rutmrdutdsynx.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "rwvvxssfbnp.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "ryrtufoxaysro.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "samtbqdmwqnp.com", "category": "Network activity", "correlations": ["2196"]}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "sihpxpjjgtrbrmnogr.com", "category": "Network activity", "correlations": ["2196"]}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "sinjydtrv.com", "category": "Network activity", "correlations": ["2196"]}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "skucfggcidnmjowl.com", "category": "Network activity", "correlations": ["2196"]}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "smqrbewtndlartnmq.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "snkbcptiqgqmlvw.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "srgtsvkysjatcwl.eu", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "swbadolov.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "swkksblqrljvgpavqoj.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "sykvfmrbjvj.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "tdccjwtetv.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "tiqfgpaxvmhsxtk.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "tmgmgjcvt.com", "category": "Network activity", "correlations": ["2196"]}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "tmsyxdge.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "twuybywnrlqcf.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "uahvwkjphhklqigod.com", "category": "Network activity", "correlations": ["2196"]}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "ubgjsqkad.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "ubkfgwqslhqyy.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "ueaytdeacktsvcunoh.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "ukiixagdbdkd.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "umiuqmrmvsuiscitx.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "umrjrxmbkl.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "uucxyfhvcoeyueknxs.click", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "uulwwmawqjujuuprpp.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "uxfmuptkvsqvj.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "vehrhkpjorpyocu.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "vfdykmselcv.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "vfjbsbxoqgdeayhu.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "vhjgrdivlr.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "vktkpkqmlufmqwvvu.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "vlptbqtq.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "vlupfbsuppipkrvbsdy.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "vomfvkcwhcfvksq.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "vosmefnuxkkmhbmuac.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "warylmiwgo.com", "category": "Network activity", "correlations": ["2196"]}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "wglxvkpybhnxhfv.com", "category": "Network activity", "correlations": ["2196"]}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "wgwuhauaqcrx.com", "category": "Network activity", "correlations": ["2196"]}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "wliyfyudchpoipilob.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "wlrfjgojtlqel.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "wpemvmxj.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "wrfjivmimqajugdqtul.com", "category": "Network activity", "correlations": ["2196"]}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "wstujheiancyv.com", "category": "Network activity", "correlations": ["2196"]}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "wvwrfkjaaorsi.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "wxsssfvmqi.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "wyvxmxnkkibgdxhv.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "xfdshaqjbfguhlcwnl.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "xigulspulc.bid", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "xpgxfjfxq.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "xpjbivtu.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "xrelmhfv.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "xtuqqcjxcpnjgknj.eu", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "xxjrbdguytaii.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "yblmyabknhn.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "ydwqpuwjpxij.com", "category": "Network activity", "correlations": ["2196"]}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "yfsxwvqbsnghyln.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "ykglqsbgjbxsja.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "ylyvqslkvglamfre.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "ypwosgnjytynbqin.com", "category": "Network activity", "correlations": ["2196"]}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "yvrktjohnvdb.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "ywphdckgaii.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "yyjiujeygdpkippa.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "548260.parkingcrew.net", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "esgdbuhoegfoyeqq.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "esldbucoegkoyelq.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "fmryabvsfaqkxkfu.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "khceuglnkubpspup.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "lbiatmfrlohlrvot.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "onrucdwwhlvbuoex.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "rpybnxoqrdxmlhxs.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "xycxqstochhqphry.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "afspypmvmh.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "gnqfqfcpwb.org", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "sfexofoh.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "sxilgdils.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "dhcbhweeuuww.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "j183ye5382ybsowu.cc", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "jinefnujxxqt.biz", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "kbfnilkoobyl.org", "category": "Network activity", "feed_correlations": [[{"Feed": {"id": "1", "name": "CIRCL OSINT Feed", "url": "https://www.circl.lu/doc/misp/feed-osint", "provider": "CIRCL", "source_format": "misp"}}]]}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "qqhyjctgkcbw.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "rmmembshxxtd.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "rvylwwomuepp.org", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "ssrgwnrmgrxe.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "alivite.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "apgtsdeh.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "canofdohwu.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "cbyhyjal.top", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "chgbqnefqf.top", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "clmtglwlkda.top", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "esurgetd.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "fidorna.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "fiduhwomde.top", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "goraddi.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "hawotseh.top", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "ignorad.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "ingaros.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "ipwrurqpc.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "iryrwxwt.top", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "janmpgf.top", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "klytkrqhale.top", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "lsxkdcbgt.top", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "mbmfirepyn.top", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "mesicnimsah.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "modicgofdor.top", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "natefkbej.top", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "nihillo.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "nuhoddutuw.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "onemser.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "povktmbi.top", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "pqlgpargner.top", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "regotlocnut.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "sifunnohus.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "simanni.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "sofengo.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "telurwimlu.top", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "tulahwomdac.top", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "ulacwitde.top", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "urirmpyp.top", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "usohwof.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "wnwjibytov.top", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "xqfytmzefst.top", "category": "Network activity"}

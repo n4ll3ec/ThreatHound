@@ -1,0 +1,622 @@
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "0x.mycrypto.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "1safe.link", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "803mine.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "a-ads.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "about.mycrypto.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "academy.bithumb.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "acceptable.a-ads.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "ad.a-ads.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "ad.s.a-ads.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "ad001.a-ads.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "ad004.a-ads.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "ad005.a-ads.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "ad007.a-ads.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "ad008.a-ads.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "ad009.a-ads.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "ad011.a-ads.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "ad012.a-ads.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "ad013.a-ads.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "ad014.a-ads.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "ad015.a-ads.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "ad032.a-ads.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "ad201.a-ads.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "ad203.a-ads.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "ad210.a-ads.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "ad212.a-ads.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "ad213.a-ads.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "ad216.a-ads.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "ad217.a-ads.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "ad218.a-ads.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "ad222.a-ads.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "ad224.a-ads.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "ad225.a-ads.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "ad226.a-ads.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "ad228.a-ads.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "ad302.a-ads.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "adc.cryptopia.co.nz", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "adconity.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "admin.adconity.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "admin.coinmama.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "affiliates.coinmama.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "aimenterprise.blog21.fc2.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "cdn1.cryptopia.co.nz", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "alpha.cryptopia.co.nz", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "alpha.myetherwallet.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "antminer-store.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "api.binance.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "api.bitfinex.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "api.bithumb.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "api.btcturk.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "api.coinmama.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "api.cryptoguiminer.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "api.cryptopia.co.nz", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "api.inwemo.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "api.jaxx.io", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "api.ledgerwallet.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "api.mycrypto.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "api.mymonero.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "api.quadrigacx.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "api01.ledgerwallet.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "api02.ledgerwallet.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "api1.bithumb.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "api2.bitfinex.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "api2.jaxx.io", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "apidocs.bithumb.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "apidocs.m.bithumb.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "app.bixin.im", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "app0.a-ads.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "apps.cointraffic.io", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "apps.ledgerwallet.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "apps2.cointraffic.io", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "artus-mining.de", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "assets.coinmama.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "autoconfig.bitcoin-doubler.us", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "autodiscover.btc-alpha.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "autodiscover.cryptopia.co.nz", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "autodiscover.uclick.in", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "awesomeminer.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "aws.simplemining.net", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "babyalex.coinmama.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "basicdemo.emercoin.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "bch-bitcore2.trezor.io", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "beta-wallet.trezor.io", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "beta.bitfinex.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "beta.mycrypto.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "beta.simplemining.net", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "bfgminer.org", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "binance.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "bit.cur.lv", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "bitcoin-doubler.us", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "bitcoin.org", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "bitcoinminers.eu", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "bitcore1.trezor.io", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "bitcore3.trezor.io", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "bitfinex.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "bithumb.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "bitmain.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "bitmaintech.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "bixin.im", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "blocked.mymonero.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "bng.btc-alpha.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "btc-alpha.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "btc-bitcore1.trezor.io", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "btc-bitcore3.trezor.io", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "btc-smtp.bithumb.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "btc.a-ads.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "btcturk.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "bullet.simplemining.net", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "buy.mycrypto.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "calendar.coinmama.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "careers.coinmama.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "cdn.inwemo.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "cdn1.cryptopia.co.nz", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "cdn2.inwemo.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "certification.bithumb.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "cex.io", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "chainradar.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "changelly.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "chat.binance.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "chat.coinmama.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "chat.quadrigacx.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "chat.simplemining.net", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "chat2.binance.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "checkout.hashgains.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "chef.a-ads.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "chf.a-ads.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "click.a-ads.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "cloud.awesomeminer.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "cloud.cryptoguiminer.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "cn.bithumb.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "cn.m.bithumb.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "coinad.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "coinadnet.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "coincube.io", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "coinmama.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "coinmarketcap.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "coinminerz.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "cointraffic.io", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "coinzilla.io", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "connect.trezor.io", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "cosigner.electrum.org", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "cpanel.antminer-store.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "cpanel.cryptoguiminer.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "cpanel.gameofbitcoins.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "cpanel.imperiumminer.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "cpanel.support.hashgains.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "cpanel.uclick.in", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "cryptoguiminer.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "cryptonaut.org", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "cryptonotemining.org", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "cryptopia.co.nz", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "cur.lv", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "dash-bitcore1.trezor.io", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "dashboard.inwemo.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "dc.rockwall.investments", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "destek.btcturk.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "dev-xhlkashd.coinmama.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "dev.a-ads.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "dev.coinmama.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "dev.cointraffic.io", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "dev.quadrigacx.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "dev.rockwall.investments", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "dev.simplemining.net", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "devapi.quadrigacx.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "development.btcturk.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "development.cryptopia.co.nz", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "devtopia.cryptopia.co.nz", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "devweb2.cryptopia.co.nz", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "disney.cryptopia.co.nz", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "dl.bixin.im", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "dns3.rockwall.investments", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "docs.bitfinex.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "docs.electrum.org", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "doge.cryptopia.co.nz", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "dogeminer.cc", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "domainkey.rockwall.investments", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "download.electrum.org", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "download.emercoin.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "download.mycrypto.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "download.simplemining.net", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "easypc.io", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "elderhash.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "electrum.org", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "em.quadrigacx.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "emercoin.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "ems01.bithumb.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "ems02.bithumb.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "ems03.bithumb.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "ems04.bithumb.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "ems05.bithumb.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "ems06.bithumb.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "emstrk.bithumb.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "en.bithumb.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "en.m.bithumb.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "es.bithumb.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "es.m.bithumb.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "esbc.bithumb.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "ether.cards", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "event.btc-alpha.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "event.rockwall.investments", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "evergreencoin.org", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "faucet.evergreencoin.org", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "faucethub.io", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "feedback.coinmama.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "files.a-ads.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "files.btcturk.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "files.cointraffic.io", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "forminerpro.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "foundry.electrum.org", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "ftp.adconity.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "ftp.antminer-store.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "ftp.awesomeminer.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "ftp.binance.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "ftp.bitcoin-doubler.us", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "ftp.coinmama.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "ftp.gameofbitcoins.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "ftp.hashgains.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "ftp.imperiumminer.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "ftp.inwemo.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "ftp.mellowads.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "ftp.miningfarmasics.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "ftp.oracolxor.io", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "ftp.quadrigacx.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "ftp.uclick.in", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "gameofbitcoins.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "games.cryptopia.co.nz", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "getbitcoin.nz", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "getmonero.org", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "global.binance.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "go.coinmama.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "go.cur.lv", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "graphql.bixin.im", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "hashcoin.io", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "hashcoins.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "hashcoins.ee", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "hashcoins.ru", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "hashgains.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "headers.electrum.org", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "healthbeauty.cryptopia.co.nz", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "help.cryptopia.co.nz", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "helpdesk.bitfinex.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "helpdesk2.bitfinex.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "hi.bithumb.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "hi.m.bithumb.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "hitbtc.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "honeypot.cryptopia.co.nz", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "i2p.emercoin.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "icerockmining.io", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "ico.icerockmining.io", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "imap.quadrigacx.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "imperiumminer.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "in.cur.lv", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "index.bithumb.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "infra2.bithumb.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "investor.cryptopia.co.nz", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "inwemo.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "io.rockwall.investments", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "iota.bitfinex.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "ja.bithumb.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "ja.m.bithumb.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "jaxx.io", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "jira.cryptopia.co.nz", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "joinslack.binance.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "jp.simplemining.net", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "jump.cur.lv", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "jwallet.network", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "kncminer.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "kr.binance.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "kriptometre.btcturk.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "labs.binance.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "launchpad.binance.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "lb4.a-ads.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "ledgerwallet.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "legacy.mycrypto.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "lightning.network", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "lightninginabox.co", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "linfen.cryptopia.co.nz", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "link.cur.lv", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "links.upcoin.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "load.cryptopia.co.nz", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "localhost.cryptopia.co.nz", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "localhost.quadrigacx.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "lp.coinmama.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "lt.cryptopia.co.nz", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "ltc-bitcore3.trezor.io", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "ltc.cryptopia.co.nz", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "luckybits.io", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "lyncdiscover.btcturk.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "lyncdiscover.cryptopia.co.nz", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "lyncdiscover.hashgains.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "m.bithumb.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "m.cryptopia.co.nz", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "management.cryptopia.co.nz", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "mars.cryptopia.co.nz", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "masternode-agent.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "masternodes4everyone.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "me.cur.lv", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "mellowads.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "merchant.bithumb.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "message.bithumb.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "mike.cryptopia.co.nz", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "mike.rockwall.investments", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "minecraft.cryptopia.co.nz", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "miner.hosting", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "minerboard.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "mineshaft.cryptopia.co.nz", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "mineshaft1.cryptopia.co.nz", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "mineshop.eu", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "mining-rig.de", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "miningfarmasics.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "minneapolis.rockwall.investments", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "mm.a-ads.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "mobile-update.bithumb.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "monero-miner.000webhostapp.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "mta82.a.hashgains.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "mta82.hashgains.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "mta83.a.hashgains.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "mta84.a.hashgains.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "mta85.a.hashgains.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "mta86.a.hashgains.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "mta87.a.hashgains.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "mta88.a.hashgains.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "mta89.a.hashgains.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "mta90.a.hashgains.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "mta91.a.hashgains.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "multipoolminer.io", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "mx.peerhash.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "my.cur.lv", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "my.ledgerwallet.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "mycrypto.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "myetherwallet.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "mymonero.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "n.cur.lv", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "n1.cryptopia.co.nz", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "name.cur.lv", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "netvision.cryptopia.co.nz", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "network.cryptopia.co.nz", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "next.btc-alpha.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "node.jwallet.network", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "nodes1.cryptopia.co.nz", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "nodes2.cryptopia.co.nz", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "nostalgia.bitfinex.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "ns2.a-ads.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "o1.coinmama.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "o1.em.quadrigacx.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "o2.em.quadrigacx.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "o3.em.quadrigacx.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "o4.em.quadrigacx.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "o5.em.quadrigacx.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "o6.em.quadrigacx.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "offers.cryptopia.co.nz", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "office.cryptopia.co.nz", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "old-wallet.trezor.io", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "old.coinad.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "oracolxor.io", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "orders.whattomine.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "overflow.mycrypto.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "p2pool.in", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "pandaminer.co", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "parners.cryptopia.co.nz", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "parthk.co.uk", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "pay.bithumb.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "peerhash.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "pg-relay.bithumb.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "poc.simplemining.net", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "pool.emercoin.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "pool2.emercoin.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "pools.cryptopia.co.nz", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "pools1.cryptopia.co.nz", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "pools2.cryptopia.co.nz", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "pop.quadrigacx.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "pop3.awesomeminer.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "pport.cryptopia.co.nz", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "prelive.cryptopia.co.nz", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "preorder.trezor.io", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "preprod.simplemining.net", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "pricing.jaxx.io", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "privacy.coinmama.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "psychomining.de", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "pubapi.bithumb.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "push.bithumb.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "quadrigacx.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "r1.bithumb.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "r2.bithumb.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "r3.bithumb.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "r4.bithumb.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "r5.bithumb.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "rc.bithumb.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "realtime.quadrigacx.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "redmine.emercoin.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "resource.binance.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "resource2.binance.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "return.bithumb.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "ripple.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "rm.cointraffic.io", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "rockwall.investments", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "rpc.myetherwallet.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "rt.quadrigacx.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "ru.cryptopia.co.nz", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "s.a-ads.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "sadmin.rockwall.investments", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "safelinkconverter.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "saml.cryptopia.co.nz", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "secure.coinmama.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "seed.emercoin.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "seed1.emercoin.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "seed2.emercoin.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "selfx1.typeform.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "sftp.binance.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "shapeshift.io", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "shop.simplemining.net", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "shop.trezor.io", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "simplemining.net", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "socket.quadrigacx.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "staging.coinmama.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "start.ledgerwallet.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "static.a-ads.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "static.bithumb.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "stats.ethc.io", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "status.coinmama.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "status.trezor.io", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "stream.binance.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "stream2.binance.com", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "superbitcoiner.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "support.a-ads.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "support.binance.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "support.bitfinex.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "support.coinmama.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "support.evergreencoin.org", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "support.ledgerwallet.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "support.mycrypto.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "support.quadrigacx.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "test.cryptopia.co.nz", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "test.ledgerwallet.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "test.rockwall.investments", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "test.simplemining.net", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "tm.btcturk.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "to.cur.lv", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "tradewin.online", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "transactions.evergreencoin.org", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "trezor.io", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "uclick.in", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "unauthorized.btcturk.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "unauthorized.cryptopia.co.nz", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "upcoin.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "upload.a-ads.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "upload.coinad.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "ups.cryptopia.co.nz", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "us.binance.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "utils.jaxx.io", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "vip.coinmama.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "w.cryptopia.co.nz", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "waiting.bithumb.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "wallet.trezor.io", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "web.bixin.im", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "web1.hashgains.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "web2.hashgains.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "web3.hashgains.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "web4.hashgains.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "web5.hashgains.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "web6.hashgains.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "webdisk.antminer-store.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "webdisk.api.cryptoguiminer.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "webdisk.cryptoguiminer.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "webdisk.uclick.in", "category": "Network activity"}
+{"types": ["domain", "filename"], "to_ids": true, "default_type": "domain", "comment": false, "value": "whattomine.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "whm.gameofbitcoins.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "widget.coinmama.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "wiki.emercoin.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "wiki.evergreencoin.org", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "wiki.trezor.io", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "winter.mycrypto.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "ws.bitfinex.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "ws.bixin.im", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "ws.ledgerwallet.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "ws.quadrigacx.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "wss.bithumb.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "wss1.bithumb.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "ww.cryptopia.co.nz", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.0x.mycrypto.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.1safe.link", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.803mine.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.a-ads.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.adconity.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.alpha.myetherwallet.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.antminer-store.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.api.binance.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.api.mymonero.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.apps.cointraffic.io", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.apps2.cointraffic.io", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.artus-mining.de", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.awesomeminer.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.bch-bitcore2.trezor.io", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.beta-wallet.trezor.io", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.bfgminer.org", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.binance.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.bitcoin-doubler.us", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.bitcoin.org", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.bitcore1.trezor.io", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.bitcore3.trezor.io", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.bitfinex.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.bithumb.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.bitmain.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.bitmaintech.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.bixin.im", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.btc-alpha.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.btc-bitcore1.trezor.io", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.btc-bitcore3.trezor.io", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.btcturk.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.careers.coinmama.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.chainradar.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.changelly.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.chat.binance.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.chat2.binance.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.cloud.cryptoguiminer.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.coinad.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.coinadnet.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.coincube.io", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.coinmama.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.coinmarketcap.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.coinminerz.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.cointraffic.io", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.coinzilla.io", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.connect.trezor.io", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.cryptoguiminer.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.cryptonaut.org", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.cryptonotemining.org", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.cryptopia.co.nz", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.cur.lv", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.dash-bitcore1.trezor.io", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.dogeminer.cc", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.easypc.io", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.elderhash.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.electrum.org", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.emercoin.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.ether.cards", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.event.rockwall.investments", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.evergreencoin.org", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.faucethub.io", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.files.cointraffic.io", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.forminerpro.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.ftp.binance.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.gameofbitcoins.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.getbitcoin.nz", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.getmonero.org", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.global.binance.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.go.coinmama.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.hashcoin.io", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.hashcoins.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.hashcoins.ee", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.hashcoins.ru", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.hashgains.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.hitbtc.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.icerockmining.io", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.ico.icerockmining.io", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.imperiumminer.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.inwemo.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.jaxx.io", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.joinslack.binance.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.jwallet.network", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.kr.binance.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.labs.binance.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.launchpad.binance.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.ledgerwallet.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.lightning.network", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.lightninginabox.co", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.ltc-bitcore3.trezor.io", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.ltc.cryptopia.co.nz", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.luckybits.io", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.masternode-agent.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.masternodes4everyone.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.mellowads.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.miner.hosting", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.minerboard.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.mineshop.eu", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.mining-rig.de", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.miningfarmasics.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.monero-miner.000webhostapp.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.multipoolminer.io", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.mycrypto.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.myetherwallet.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.mymonero.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.old-wallet.trezor.io", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.oracolxor.io", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.overflow.mycrypto.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.p2pool.in", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.pandaminer.co", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.parthk.co.uk", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.pay.bithumb.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.peerhash.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.preorder.trezor.io", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.psychomining.de", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.quadrigacx.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.resource.binance.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.resource2.binance.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.rm.cointraffic.io", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.rockwall.investments", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.rpc.myetherwallet.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.safelinkconverter.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.selfx1.typeform.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.sftp.binance.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.shapeshift.io", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.shop.simplemining.net", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.shop.trezor.io", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.simplemining.net", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.status.trezor.io", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.stream.binance.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.stream2.binance.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.superbitcoiner.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.support.binance.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.tradewin.online", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.trezor.io", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.uclick.in", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.upcoin.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.us.binance.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.wallet.trezor.io", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.whattomine.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.wiki.trezor.io", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www.zec-bitcore1.trezor.io", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www1.a-ads.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www1.bithumb.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "www3.a-ads.com", "category": "Network activity"}
+{"types": ["hostname", "domain", "url", "filename"], "to_ids": true, "default_type": "hostname", "comment": false, "value": "zec-bitcore1.trezor.io", "category": "Network activity"}
