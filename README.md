@@ -76,10 +76,23 @@ python3 ThreatHound.py --online --ip <IP>
 ```
 4.对单个域名进行查询
 ```
-python3 ThreatHound.py --local --domain <DOMAIN>
+python3 ThreatHound.py --online --domain <DOMAIN>
 ```
 
+### 示例
+
+Suricata NIDS对低信誉IP的检出情况
+
+![Suricata_low_repuation_alerts](./Images/Suricata_low_reputation_alerts.png)
+
+脚本对低可信IP的检出情况，低信誉IP检出数从95增加至383
+![ThreatHound_reputation](./Images/ThreatHound_reputation.png)
+
+
+
+
 # 参考
+
 ----
 - [MISP](https://www.misp-project.org/)
 - [AlienVault OTX](https://otx.alienvault.com/api/)
